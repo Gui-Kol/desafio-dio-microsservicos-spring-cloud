@@ -1,7 +1,7 @@
 # Desafio DIO: Microsserviços com Spring Cloud
 
 ![Badge de Versão](https://img.shields.io/badge/vers%C3%A3o-1.0.0-blue)
-![Badge de Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Badge de Status](https://img.shields.io/badge/status-em%20desenvolvimento-green)
 [![Licença MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-green)](LICENSE.md)
 
 ## 📝 Descrição do Projeto
