@@ -133,5 +133,3 @@ Para acessar os endpoints dos microsserviços através do API Gateway, você pre
 *   **Guilherme Kolndorfer** - [GitHub](https://github.com/Gui-Kol) | [LinkedIn](https://www.linkedin.com/in/guilherme-kolndorfer-b6836122b/)
 
 ---
-
-*Este README foi elaborado seguindo as melhores práticas para documentação de projetos no GitHub e focado na clareza e facilidade de uso para outros desenvolvedores. Sinta-se à vontade para adaptá-lo e expandi-lo conforme o projeto evolui!*
